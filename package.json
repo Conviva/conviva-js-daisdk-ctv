@@ -1,0 +1,24 @@
+{
+  "name": "@convivainc/conviva-js-daisdk-ctv",
+  "version": "1.0.0",
+  "description": "Conviva Google IMA DAI SDK module for Connected TV's",
+  "main": "conviva-googledai-ctv-module.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Conviva/conviva-js-daisdk-ctv.git"
+  },
+  "keywords": [
+    "googledai",
+    "ads",
+    "ctv"
+  ],
+  "author": "Conviva Inc",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Conviva/conviva-js-daisdk-ctv/issues"
+  },
+  "homepage": "https://github.com/Conviva/conviva-js-daisdk-ctv#readme",
+  "dependencies": {
+    "@convivainc/conviva-js-coresdk": "^4.8.0"
+  }
+}
